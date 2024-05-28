@@ -25,3 +25,7 @@ A composição de funções envolve a aplicação de uma função (`g`) ao resul
  = (2x - 3)^2 - 1 // Aplicando g
  = 4x^2 - 12x + 8 // Expandindo o quadrado
  ```
+
+## Imagem
+
+![img](https://github.com/DeiseFreire/Composicao_da_Funcao/blob/main/img.png)
